@@ -31,7 +31,7 @@ const contactLinks = [
     icon: Instagram,
     label: "Instagram",
     value: "@ck_unlimitedd",
-    href: "https://instagram.com/ck_unlimitedd",
+    href: "https://instagram.com/chef_ck_unlimited_",
     hint: "Follow for culinary updates",
   },
   {
