@@ -81,7 +81,7 @@ export default function AboutSection() {
 
             {/* Floating badge */}
             <motion.div
-              className="absolute left-[35%] top-[40%] z-20 bg-dark-200 border border-gold/25 px-5 py-4 shadow-2xl"
+              className="absolute left-[75%] top-[40%] z-20 bg-dark-200 border border-gold/25 px-5 py-4 shadow-2xl"
               initial={{ opacity: 0, scale: 0.8, y: 20 }}
               whileInView={{ opacity: 1, scale: 1, y: 0 }}
               viewport={{ once: true }}
