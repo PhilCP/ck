@@ -123,7 +123,7 @@ export default function AboutSection() {
 
               <p className="text-cream/55 leading-8 font-light">
                 Currently refining my craft at <strong className="text-cream/75 font-medium">CHOIX par Pierre Gagnaire</strong> and Pierre's TT
-                under the mentorship of the world-renowned, multi-Michelin-starred French chef, Pierre Gagnaire.
+                under the mentorship of the world-renowned, multi-Michelin-starred French chef, Pierre Gagnaire. <br /> Under direct supervision of chef Mathieu Balbino the Executive chef and Chef Drigo Lim the sous chef
               </p>
             </motion.div>
 

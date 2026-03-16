@@ -37,7 +37,7 @@ const experiences: Experience[] = [
     id: "intercontinental",
     period: "2022–2023",
     role: "Chef de Partie",
-    org: "InterContinental Dubai Festival City",
+    org: "  Pierre’s par Pierre Gagnaire",
     location: "Dubai, UAE",
     type: "uae",
     description:
@@ -53,7 +53,7 @@ const experiences: Experience[] = [
     id: "carnival",
     period: "2021–2022",
     role: "Demi Chef de Partie",
-    org: "Carnival by Tresind",
+    org: "  Pierre’s par Pierre Gagnaire ",
     location: "Dubai, UAE",
     type: "uae",
     description:
@@ -68,8 +68,8 @@ const experiences: Experience[] = [
   {
     id: "tryp",
     period: "2020–2021",
-    role: "Commis Chef",
-    org: "TRYP by Wyndham",
+    role: "Commis 1",
+    org: "Choix -Par Pierre Gagnaire",
     location: "Dubai, UAE",
     type: "uae",
     description:

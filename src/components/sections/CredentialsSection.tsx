@@ -31,7 +31,7 @@ const credentials = [
     institution: "CHOIX par Pierre Gagnaire, Dubai",
     accreditation: "Multi-Michelin-Starred Mentor",
     detail:
-      "Direct mentorship under one of the world's most decorated French chefs — a distinction reserved for only the most dedicated culinary professionals.",
+      "Direct mentorship under one of the world's most decorated French chefs — a distinction reserved for only the most dedicated culinary professionals. Following my closed and daily leaders Chef Mathieu Balbino (Exécutive chef ) and Chef Drigo Lim (Sous Chef ) .",
     badge: "Michelin Excellence",
     color: "gold",
   },
