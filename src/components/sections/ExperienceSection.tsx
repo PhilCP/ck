@@ -255,7 +255,7 @@ export default function ExperienceSection() {
                   {/* Type badge */}
                   <div className="mt-8 pt-6 border-t border-gold/8">
                     <span className={`text-label-sm uppercase border px-3 py-1 ${typeColors[activeExp.type]}`}>
-                      {activeExp.type === "current" ? "Current Position" : activeExp.type === "uae" ? "UAE Experience" : "Kenya Origins"}
+                      {activeExp.type === "current" ? "Current Position" : activeExp.type === "uae" ? "UAE Experience" : "DRC Origins"}
                     </span>
                   </div>
                 </div>
