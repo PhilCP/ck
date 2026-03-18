@@ -149,8 +149,8 @@ export async function POST(req: NextRequest) {
         <p style="margin:0 0 24px;font-size:15px;line-height:1.85;color:rgba(245,240,232,0.7);">
           In the meantime, follow along on Instagram for behind-the-scenes culinary content from the kitchen.
         </p>
-        <a href="https://instagram.com/chef_ck_unlimited" style="display:inline-block;background:transparent;border:1px solid rgba(201,168,76,0.4);color:#C9A84C;font-size:11px;letter-spacing:0.2em;text-transform:uppercase;padding:11px 22px;text-decoration:none;">
-          @ck_unlimitedd &nbsp;&rarr;
+        <a href="https://instagram.com/chef_ck_unlimited_" style="display:inline-block;background:transparent;border:1px solid rgba(201,168,76,0.4);color:#C9A84C;font-size:11px;letter-spacing:0.2em;text-transform:uppercase;padding:11px 22px;text-decoration:none;">
+          @ck_unlimited &nbsp;&rarr;
         </a>
       </td></tr>
 
