@@ -4,6 +4,7 @@ import { Cormorant_Garamond, DM_Sans, DM_Mono } from "next/font/google";
 import CustomCursor from "@/components/ui/CustomCursor";
 import NoiseOverlay from "@/components/ui/NoiseOverlay";
 import LoadingScreen from "@/components/ui/LoadingScreen";
+import { Analytics } from "@vercel/analytics/next";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -63,6 +64,7 @@ export default function RootLayout({
         <LoadingScreen />
         <CustomCursor />
         <NoiseOverlay />
+        <Analytics />
         {children}
       </body>
     </html>
