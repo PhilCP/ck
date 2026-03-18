@@ -27,11 +27,11 @@ const credentials = [
   },
   {
     icon: Star,
-    title: "Mentorship — Pierre Gagnaire",
+    title: "Mentorship -Chef Mathieu Balbino-Pierre Gagnaire  TT ",
     institution: "CHOIX par Pierre Gagnaire, Dubai",
     accreditation: "Multi-Michelin-Starred Mentor",
     detail:
-      "Direct mentorship under one of the world's most decorated French chefs — a distinction reserved for only the most dedicated culinary professionals. Following my closed and daily leaders Chef Mathieu Balbino (Exécutive chef ) and Chef Drigo Lim (Sous Chef ) .",
+      "Direct mentorship under chef Mathieu Balbino working for one of the world's most decorated French chefs a distinction reserved for only the most dedicated culinary professionals. Following my closed and daily leader Chef Drigo Lim (Sous Chef) .",
     badge: "Michelin Excellence",
     color: "gold",
   },
