@@ -27,7 +27,7 @@ const credentials = [
   },
   {
     icon: Star,
-    title: "Mentorship -Chef Mathieu Balbino-Pierre Gagnaire  TT ",
+    title: "Mentorship -Chef Mathieu Balbino under Pierre Gagnaire ",
     institution: "CHOIX par Pierre Gagnaire, Dubai",
     accreditation: "Multi-Michelin-Starred Mentor",
     detail:

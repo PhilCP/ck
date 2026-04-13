@@ -25,10 +25,10 @@ const experiences: Experience[] = [
     location: "Dubai, UAE",
     type: "current",
     description:
-      "Refining the art of French fine dining under the direct mentorship of multi-Michelin-starred Chef Pierre Gagnaire — one of the world's most celebrated culinary figures.",
+      "Refining the art of French fine dining under the direct membership of Chef Mathieu Balbino , under whom I have been working for the past 4 years and half.",
     highlights: [
       "Executing world-class French fine dining",
-      "Mentored by Pierre Gagnaire",
+      
       "Leading stations in savory & pastry",
       "Contributing to menu innovation",
     ],

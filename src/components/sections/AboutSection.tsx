@@ -122,8 +122,7 @@ export default function AboutSection() {
               </p>
 
               <p className="text-cream/55 leading-8 font-light">
-                Currently refining my craft at <strong className="text-cream/75 font-medium">CHOIX par Pierre Gagnaire</strong> and Pierre's TT
-                under the mentorship of the world-renowned, multi-Michelin-starred French chef, Pierre Gagnaire. <br /> Under direct supervision of chef Mathieu Balbino the Executive chef and Chef Drigo Lim the sous chef
+                Currently refining my craft in two of the establishments of the well known multi stars ⭐️ <strong className="text-cream/75 font-medium">French chef PIERRE Gagnaire</strong> Based In Dubai ; CHOIX Pâtisserie and restaurant & PIERRE’S par Pierre Gagnaire ,located in Dubai festival city under the supervision of  Chef Mathieu Balbino the executive chef and my daily mentor  Chef Drigo Lim . 
               </p>
             </motion.div>
 
